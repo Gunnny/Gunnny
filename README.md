@@ -1,4 +1,4 @@
-#thomas
+# thomas
 Computer science student at **TU Dresden**, working toward machine learning.
  
 I'm in my first year, so most of what you'll find here is work in progress — which is rather the point. I build things in order to understand them: in **Rust**, which is what we write in our courses, and increasingly in **Python**, where the ML ecosystem lives.
